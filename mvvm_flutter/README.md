@@ -1,6 +1,6 @@
 # mvvm_flutter
 
-A new Flutter project.
+A new example of Flutter project.
 
 ## Getting Started
 
